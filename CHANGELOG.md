@@ -22,6 +22,7 @@
 
 <details>
 
+-   [`498e8b2`](https://github.com/stdlib-js/stdlib/commit/498e8b2882c1737a5bf5757704a97c0c63d90711) - **docs:** move content to notes _(by Athan Reines)_
 -   [`b1c1ac0`](https://github.com/stdlib-js/stdlib/commit/b1c1ac0ca0ae8488c5cec52a8f109d29cddecff6) - **feat:** add `stats/base/ndarray/smskmaxabs` [(#9961)](https://github.com/stdlib-js/stdlib/pull/9961) _(by Sachin Pangal, Athan Reines)_
 
 </details>
